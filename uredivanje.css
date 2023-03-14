@@ -1,0 +1,64 @@
+.naslov {
+    display: flex;
+    background-color: red;
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 20px;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    }
+
+    .paragrafi {
+    background-color: white;
+    width: 70%;
+    margin: 20px auto 0;
+    margin-bottom: 20px;
+    height: 430px;
+    justify-content: center;
+    border-radius: 0px 0px 90px 90px;
+    }
+
+    #crveni_tekst {
+    color: rgb(195, 30, 30);
+    padding: 30px;
+    }
+
+    .slika1 {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+
+    .slika2 {
+      display: flex;
+      justify-content: center;
+    }
+    
+    .slika1 img,
+    .slika2 img {
+      border-radius: 20px;
+    }
+
+    .poravnaj {
+		text-align: justify; 
+		text-justify: inter-word;
+    }
+
+    #obicni_tekst {
+    padding: 50px;
+    }
+
+  .kraj {
+    background-color: rgb(242, 216, 67);
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: blue;
+    text-align: center;
+    }
